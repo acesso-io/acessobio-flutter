@@ -10,7 +10,7 @@ target 'Runner' do
 	# add pods for any other desired Firebase products
 	# https://firebase.google.com/docs/ios/setup#available-pods
 
-	pod ‘AcessoBio’, :git => ‘https://github.com/acesso-io/acessobio-ios’, :tag => ‘1.1.4’
+	pod ‘AcessoBio’, :git => ‘https://github.com/acesso-io/acessobio-ios’, :tag => ‘1.2.0’
 
   # Pods for Runner
 
